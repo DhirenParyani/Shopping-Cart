@@ -1,0 +1,6 @@
+1. We need state in which we will hold the items or the cart items.
+2. We need a method to add items to the cart.
+3. We need to verify whether the item is available in the cart or not?
+4. If it is not there, we will add it to our state.
+5. Removing the item: filter logic in array.
+6. Buy Method- reset our state and print a toastify message.
